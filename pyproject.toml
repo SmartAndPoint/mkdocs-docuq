@@ -5,8 +5,10 @@ build-backend = "hatchling.build"
 [project]
 name = "mkdocs-docuq"
 version = "0.1"
-description = "DocuQ plugin for MkDocs - AI-powered documentation search and interaction"
-authors = [{ name = "SmartAndPoint", email = "info@smartandpoint.com" }]
+description = "DocuQ plugin for MkDocs - DocuQ is an AI-powered documentation search and interaction tool"
+authors = [
+    { name = "Evgenii Konev at SmartAndPoint", email = "ekonev@smartandpoint.com" },
+]
 license = { file = "LICENSE" }
 readme = "README.md"
 requires-python = ">=3.8"
